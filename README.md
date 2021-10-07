@@ -1,0 +1,2 @@
+# SendingMailsPython
+tkinter GUI
